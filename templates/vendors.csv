@@ -1,0 +1,11 @@
+category,role,company,contact,phone,email,service_area,rates,after_hours,license_exp,insurance_exp,w9_on_file,last_used,rating,notes
+清洁 Cleaning,primary,,,,,,,,,,,,,
+清洁 Cleaning,backup,,,,,,,,,,,,,
+水管 Plumber,primary,,,,,,,,,,,,,
+电工 Electrician,primary,,,,,,,,,,,,,
+暖通空调 HVAC,primary,,,,,,,,,,,,,
+杂工 Handyman,primary,,,,,,,,,,,,,
+锁匠 Locksmith,primary,,,,,,,,,,,,,
+家电维修 Appliance repair,primary,,,,,,,,,,,,,
+除虫 Pest control,primary,,,,,,,,,,,,,
+泳池和热水池 Pool & spa,primary,,,,,,,,,,,,,

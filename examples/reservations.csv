@@ -1,0 +1,4 @@
+Confirmation code,Status,Guest name,Contact,# of adults,# of children,# of infants,Start date,End date,# of nights,Booked,Listing,Earnings
+HMEX2001,Confirmed,Guest G.,,2,0,0,11/03/2026,11/06/2026,3,2026-10-20,Willow 2BR (Example),$721.65
+HMEX2002,Confirmed,Guest H.,,2,1,0,11/06/2026,11/09/2026,3,2026-10-18,Willow 2BR (Example),$843.20
+HMEX2009,Canceled,Guest I.,,2,0,0,11/16/2026,11/18/2026,2,2026-10-01,Willow 2BR (Example),$0

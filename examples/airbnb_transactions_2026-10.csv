@@ -1,0 +1,15 @@
+Date,Type,Confirmation Code,Start Date,Nights,Guest,Listing,Details,Reference,Currency,Amount,Paid Out,Service Fee,Cleaning Fee,Gross Earnings,Occupancy Taxes,Earnings Year
+09/29/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,760.50,,,,,
+09/29/2026,Reservation,HMEX0999,09/28/2026,3,Guest A.,Willow 2BR (Example),,,USD,760.50,,139.50,150.00,900.00,90.00,2026
+10/03/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,971.75,,,,,
+10/03/2026,Reservation,HMEX1001,10/02/2026,4,Guest B.,Willow 2BR (Example),,,USD,971.75,,178.25,150.00,"1,150.00",115.00,2026
+10/10/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,811.20,,,,,
+10/10/2026,Reservation,HMEX1002,10/09/2026,3,Guest C.,Willow 2BR (Example),,,USD,811.20,,148.80,150.00,960.00,96.00,2026
+10/17/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,"1,140.75",,,,,
+10/17/2026,Reservation,HMEX1003,10/16/2026,5,Guest D.,Willow 2BR (Example),,,USD,"1,140.75",,209.25,150.00,"1,350.00",135.00,2026
+10/22/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,45.00,,,,,
+10/22/2026,Resolution Payout,HMEX1003,,,Guest D.,Willow 2BR (Example),Broken lamp,,USD,45.00,,,,,,2026
+10/24/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,120.00,,,,,
+10/24/2026,Reservation,HMEX1005,10/26/2026,0,Guest F.,Willow 2BR (Example),Cancellation fee,,USD,120.00,,,,,,2026
+10/30/2026,Payout,,,,,,Transfer to bank ****0000,,USD,,"1,183.00",,,,,
+10/30/2026,Reservation,HMEX1004,10/29/2026,5,Guest E.,Willow 2BR (Example),,,USD,"1,183.00",,217.00,150.00,"1,400.00",140.00,2026

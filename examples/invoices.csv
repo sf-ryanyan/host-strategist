@@ -1,0 +1,2 @@
+invoice_no,owner,property,period,date,due,amount,paid_date,paid_amount,notes
+INV-WIL01-2026-09,示例屋主,Willow 2BR (Example),2026年9月,2026-10-01,2026-10-11,410.00,,,

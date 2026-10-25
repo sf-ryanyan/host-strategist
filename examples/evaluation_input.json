@@ -1,0 +1,153 @@
+{
+  "_note": "EXAMPLE 仅为示例数值 — 每个数字都要换成有来源或屋主提供的数值；不适用的区块删掉",
+  "user_lang": "zh",
+  "lang": "zh",
+  "property": {
+    "name": "示例房子 123 Example St",
+    "city": "San Jose",
+    "beds": 3,
+    "baths": 2,
+    "sleeps": 6,
+    "year": 2027
+  },
+  "monthly": [
+    {
+      "m": "Jan",
+      "adr": 210,
+      "occ": 0.55
+    },
+    {
+      "m": "Feb",
+      "adr": 215,
+      "occ": 0.6
+    },
+    {
+      "m": "Mar",
+      "adr": 225,
+      "occ": 0.65
+    },
+    {
+      "m": "Apr",
+      "adr": 230,
+      "occ": 0.68
+    },
+    {
+      "m": "May",
+      "adr": 245,
+      "occ": 0.72
+    },
+    {
+      "m": "Jun",
+      "adr": 265,
+      "occ": 0.8
+    },
+    {
+      "m": "Jul",
+      "adr": 270,
+      "occ": 0.82
+    },
+    {
+      "m": "Aug",
+      "adr": 265,
+      "occ": 0.8
+    },
+    {
+      "m": "Sep",
+      "adr": 240,
+      "occ": 0.7
+    },
+    {
+      "m": "Oct",
+      "adr": 235,
+      "occ": 0.68
+    },
+    {
+      "m": "Nov",
+      "adr": 225,
+      "occ": 0.6
+    },
+    {
+      "m": "Dec",
+      "adr": 240,
+      "occ": 0.58
+    }
+  ],
+  "scenarios": {
+    "conservative": {
+      "adr_x": 0.9,
+      "occ_pts": -10
+    },
+    "expected": {
+      "adr_x": 1.0,
+      "occ_pts": 0
+    },
+    "strong": {
+      "adr_x": 1.08,
+      "occ_pts": 5
+    }
+  },
+  "owner_blocked_nights": 0,
+  "alos": 3.0,
+  "guest_cleaning_fee": 175,
+  "cleaning_cost_per_turn": 140,
+  "cleaning_charge_to_owner_per_turn": 160,
+  "airbnb_host_fee_pct": 15.5,
+  "airbnb_host_fee_source": "示例值 — 请在自己的 Airbnb 账户核实",
+  "needs_quote": [
+    "屋主保险公司的短租保险报价",
+    "城市登记费"
+  ],
+  "mgmt_fee_pct": null,
+  "mgmt_fee_basis": "net_rent",
+  "costs": {
+    "utilities_internet_monthly": 450,
+    "supplies_per_stay": 25,
+    "insurance_annual": 2400,
+    "permits_taxes_annual": 500,
+    "software_monthly": 0,
+    "maintenance_pct_of_revenue": 0.05,
+    "hoa_monthly": 0,
+    "property_tax_annual": 0,
+    "mortgage_monthly": 0
+  },
+  "furnishing": {
+    "needed": true,
+    "cost": 22000,
+    "other_setup": 2500
+  },
+  "ltr": {
+    "monthly_rent": 3900,
+    "vacancy_pct": 0.04,
+    "maintenance_pct": 0.05,
+    "insurance_annual": 1600,
+    "mgmt_fee_pct": 0.08,
+    "leasing_fee": 1950
+  },
+  "hybrid": {
+    "str_months": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "mtr_monthly_rent": 5200,
+    "mtr_months_leased": 5.5,
+    "mtr_cleaning_per_turn": 250,
+    "mtr_turns": 1,
+    "mtr_mgmt_fee_pct": 0.12,
+    "mtr_maintenance_pct": 0.04
+  },
+  "mtr": {
+    "monthly_rent": 5200,
+    "months_leased": 10,
+    "utilities_internet_monthly": 450,
+    "cleaning_per_turn": 250,
+    "turns": 3,
+    "maintenance_pct": 0.04,
+    "insurance_annual": 2000,
+    "mgmt_fee_pct": 0.12,
+    "listing_fees_annual": 200
+  }
+}

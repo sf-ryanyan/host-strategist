@@ -1,0 +1,2 @@
+property,item,number_ref,issued,expires,renew_lead_days,task_owner,source,verified_on,notes
+WIL01,EXAMPLE 示例 — 短租登记,[已存档],2026-01-01,2026-12-31,60,[负责人],[城市官网链接],2026-01-01,请换成真实资料

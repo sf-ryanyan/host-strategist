@@ -1,0 +1,3 @@
+wo_id,property,opened,area,severity,description,vendor,status,closed,cost,charge_to,reimbursable,receipt
+WO-WIL01-20261021-01,Willow 2BR (Example),2026-10-21,客厅,3,更换台灯,[杂工 — 首选],fixed,2026-10-21,38.50,owner,Y,Y
+WO-WIL01-20261028-01,Willow 2BR (Example),2026-10-28,主卫,2,马桶漏水,[水管 — 首选],scheduled,,,owner,Y,

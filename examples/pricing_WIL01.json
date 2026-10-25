@@ -1,0 +1,52 @@
+{
+  "_note": "EXAMPLE 示例 — 按竞品 / 自己的数据设置；每套房保存一份，每周重复使用",
+  "property": "WIL01",
+  "base_weekday": 220,
+  "base_weekend": 260,
+  "weekend_days": [
+    "Fri",
+    "Sat"
+  ],
+  "floor": 160,
+  "ceiling": 600,
+  "season": {
+    "1": 0.85,
+    "2": 0.88,
+    "3": 0.95,
+    "4": 1.0,
+    "5": 1.02,
+    "6": 1.1,
+    "7": 1.12,
+    "8": 1.1,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 0.95,
+    "12": 0.92
+  },
+  "last_minute": {
+    "days": 7,
+    "pct": -12
+  },
+  "far_out": {
+    "days": 90,
+    "pct": 5
+  },
+  "gap": {
+    "pct": -10,
+    "min_stay": 1
+  },
+  "min_stay": {
+    "weekday": 2,
+    "weekend": 2,
+    "within_7_days": 1
+  },
+  "holidays": {
+    "long_weekend_pct": 15,
+    "thanksgiving_pct": 25,
+    "christmas_pct": 20,
+    "new_years_eve_pct": 40,
+    "july4_pct": 20,
+    "holiday_min_stay": 3
+  },
+  "round_to": 1
+}
